@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "my_SMV_Custom") (type "KiCad") (uri "/Users/lianneking/Desktop/my_SMV_Custom.kicad_sym") (options "") (descr ""))
+)
